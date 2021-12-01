@@ -1,0 +1,17 @@
+<html>
+<body >
+<style>
+body {
+  background-image: url('back1.jpg');
+  
+  }
+</style>
+<img src="aplogo.jpg" alt="logo"style="width:250px;height:150px;float:left">
+<img src="policelogo.jpg" alt="MY PHOTO"style="width:150px;height:150px;float:right"><br/><br/>
+<u><b><center><font face="Times New Roman" size = "+3" color="#000080">E-PASS FOR MOVING DURING PANDAMIC</font></center></b></u>
+<b><h3><center><font color="RED">-GOVERNMENT OF ANDHRA PRADESH</font></center></h3></br>
+<style>
+p {
+  border: 5px solid red;
+}
+</style>
